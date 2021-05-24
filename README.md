@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariodelta
-- 👀 Coding
-- 🌱 NodeJS
-- 💞️ At the moment nothing xD
+- 👀 I like code!
+- 🌱 I'm currently learning NodeJS
+- 💞️ At the moment no collaboration
 - 📫 Just sent me an email Dennis@denniskuijs.nl
 
 <!---
